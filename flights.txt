@@ -1,0 +1,5 @@
+101 NewYork 50
+102 London 30
+103 Paris 45
+201 Mumbai 20
+202 Dubai 60
